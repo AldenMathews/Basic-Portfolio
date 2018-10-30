@@ -1,0 +1,15 @@
+.headerlinks{
+    float: right;
+}
+
+.auth-image{
+    width: 200px;
+    length: 200px;
+    float: left;
+    clear: both;
+}
+
+#content{
+    float: right;
+    width: 85%;
+}
